@@ -1,0 +1,10 @@
+Benchmark                                  Mode  Cnt    Score    Error  Units
+ParsingBenchmark.filterWithForLoop         avgt    5    0.071 ±  0.004  ms/op
+ParsingBenchmark.filterWithParallelStream  avgt    5    0.039 ±  0.004  ms/op
+ParsingBenchmark.filterWithStream          avgt    5    0.085 ±  0.001  ms/op
+ParsingBenchmark.groupWithForLoop          avgt    5    0.014 ±  0.001  ms/op
+ParsingBenchmark.groupWithParallelStream   avgt    5    0.015 ±  0.001  ms/op
+ParsingBenchmark.groupWithStream           avgt    5    0.015 ±  0.001  ms/op
+ParsingBenchmark.sortWithForLoop           avgt    5  604.416 ± 25.658  ms/op
+ParsingBenchmark.sortWithParallelStream    avgt    5    0.323 ±  0.045  ms/op
+ParsingBenchmark.sortWithStream            avgt    5    0.310 ±  0.026  ms/op

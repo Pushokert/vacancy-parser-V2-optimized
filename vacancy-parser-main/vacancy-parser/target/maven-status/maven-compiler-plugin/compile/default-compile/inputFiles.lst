@@ -1,0 +1,16 @@
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\parser\VacancyParser.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\VacancyParserApplication.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\config\OpenTelemetryConfig.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\service\MetricsService.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\benchmark\ParsingBenchmark.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\config\CorsConfig.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\model\Vacancy.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\dto\VacancyDto.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\dto\ParseRequest.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\repository\VacancyRepository.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\scheduler\VacancyScheduler.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\service\LoggingService.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\service\VacancyService.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\config\WebClientConfig.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\service\TracingService.java
+C:\Users\stephan\Downloads\vacancy-parser-main\vacancy-parser\src\main\java\com\vacancyparser\controller\VacancyController.java

@@ -1,0 +1,15 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/vacancyparser/benchmark/ParsingBenchmark.filterWithForLoop
+inline,com/vacancyparser/benchmark/ParsingBenchmark.filterWithParallelStream
+inline,com/vacancyparser/benchmark/ParsingBenchmark.filterWithStream
+inline,com/vacancyparser/benchmark/ParsingBenchmark.groupWithForLoop
+inline,com/vacancyparser/benchmark/ParsingBenchmark.groupWithParallelStream
+inline,com/vacancyparser/benchmark/ParsingBenchmark.groupWithStream
+inline,com/vacancyparser/benchmark/ParsingBenchmark.setup
+inline,com/vacancyparser/benchmark/ParsingBenchmark.sortWithForLoop
+inline,com/vacancyparser/benchmark/ParsingBenchmark.sortWithParallelStream
+inline,com/vacancyparser/benchmark/ParsingBenchmark.sortWithStream
